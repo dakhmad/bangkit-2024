@@ -1,6 +1,6 @@
-<h1>##  بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ </h1><br>
+<h1 align="center">بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ</h1>
 
-### In the name of Allah, most gracious, most merciful
+<h3 align="center">In the name of Allah, most gracious, most merciful</h3>
 <br>
 
 # Bangkit 2024 <br>
