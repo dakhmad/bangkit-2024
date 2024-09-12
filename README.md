@@ -2,7 +2,8 @@
 
 ### In the name of Allah, most gracious, most merciful
 <br>
-# Bangkit 2024
+
+# Bangkit 2024 <br>
 Pada repository kali ini, saya akan membahas mengenai perjalanan saya menyelesaikan bangkit 2024.
 
 Alasan : The reason why I am joining in Bangkit program is I want to seek knowledge.
