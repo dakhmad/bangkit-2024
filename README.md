@@ -1,4 +1,4 @@
-##  بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
+<h1>##  بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ </h1><br>
 
 ### In the name of Allah, most gracious, most merciful
 <br>
