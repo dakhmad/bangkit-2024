@@ -29,6 +29,12 @@ Total = 5.5 hours<br>
 13 09<br>
 I learn about GitHub again<br>
 06.00 - 06.30 ~ 0.5 hours<br>
+08.30 - 11.00 ~ 2.5 hours<br>
+12.30 - 14.00 ~ 1.5 hours<br>
+hutang = 3.5 hours<br>
+bayar = <br>
+Total = 4.5 hours<br>
+
 I started learn about website<br>
 
 Total = 16 hours<br>
