@@ -31,11 +31,15 @@ I learn about GitHub again<br>
 06.00 - 06.30 ~ 0.5 hours<br>
 08.30 - 11.00 ~ 2.5 hours<br>
 12.30 - 14.00 ~ 1.5 hours<br>
-hutang = 3.5 hours<br>
+19.30 - 20.30 ~ 1 hours<br>
+hutang = 2.5 hours<br>
 bayar = <br>
-Total = 4.5 hours<br>
-
+Total = 5.5 hours<br>
 I started learn about website<br>
+
+14 09
+I learn about CSS
+03.30 - 04.30 ~ 1 hours<br>
 
 Total = 16 hours<br>
 Now = 6.5 hours<br>
