@@ -26,7 +26,7 @@ I will make submission Website
 14 09
 I learn about CSS
 03.30 - 04.30 ~ 1 hours<br>
-07.30 - 11.30 ~ 4 hours<br>
+10.00 - 11.30 ~ 1.5 hours<br>
 12.30 - 15.00 ~ 2.5 hours<br>
 16.00 - 18.00 ~ 2 hours<br>
 hutang = <br>
