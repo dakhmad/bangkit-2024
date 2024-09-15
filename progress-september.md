@@ -1,37 +1,46 @@
 # Progress Bulan September
-24 09
-GCSB information will inform
+24 09<br>
+GCSB information will inform<br>
 
-19 09
-Weekly consultation at 16.30 - 17.30
-
-
-18 09
-ILT Sessions A Growth Mindset SS 1 at 15.30 - 17.30
+19 09<br>
+Weekly consultation at 16.30 - 17.30<br>
 
 
-17 09
-Joining co hort room in 11.00 - 12.00 AM
+18 09<br>
+ILT Sessions A Growth Mindset SS 1 at 15.30 - 17.30<br>
+
+
+17 09<br>
+Joining co hort room in 11.00 - 12.00 AM<br>
 
 
 
-16 09
-I will learn JavaScript
+16 09<br>
+I will learn JavaScript, nope i am still in flexbox and make website<br><br>
+01.30 - 02.30 ~ 1 hours<br>
+03.00 - 04.30 ~ 1.5 hours<br>
+07.30 - 11.30 ~ 4 hours<br>
+12.30 - 15.00 ~ 3.5 hours<br>
+total = 10 hours<br>
 
+15 09 (this day is Makan too much)<br>
+I will make submission Website nope, i am still learning CSS<br>
+03.00 - 04.00 ~ 1 hours<br>
+07.30 - 11.30 ~ 4 hours<br>
+13.00 - 13.30 ~ 0.5 hours<br>
+16.00 - 17.00 ~ 1 hours<br>
+total = 6.5 hours<br>
 
-15 09
-I will make submission Website
-
-
-14 09
-I learn about CSS
+14 09 (this day is Malas and Scrolling)<br>
+I learn about CSS<br>
 03.30 - 04.30 ~ 1 hours<br>
 10.00 - 11.30 ~ 1.5 hours<br>
-12.30 - 15.00 ~ 2.5 hours<br>
-16.00 - 18.00 ~ 2 hours<br>
+12.30 - 15.00 ~ 2.5 hours nope<br>
+16.00 - 18.00 ~ 2 hours nope<br>
+13.30 - 15.00 ~ 1.5 hours<br>
 hutang = <br>
 bayar = <br>
-Total = 1 hours<br>
+Total = 4 hours<br>
 
 13 09<br>
 I learn about GitHub again<br>
