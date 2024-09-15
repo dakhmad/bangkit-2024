@@ -18,10 +18,10 @@ Joining co hort room in 11.00 - 12.00 AM<br>
 16 09<br>
 I will learn JavaScript, nope i am still in flexbox and make website<br><br>
 01.30 - 02.30 ~ 1 hours<br>
-03.00 - 04.30 ~ 1.5 hours<br>
+03.00 - 04.00 ~ 1 hours<br>
 07.30 - 11.30 ~ 4 hours<br>
 12.30 - 15.00 ~ 3.5 hours<br>
-total = 10 hours<br>
+total = 9.5 hours<br>
 
 15 09 (this day is Makan too much)<br>
 I will make submission Website nope, i am still learning CSS<br>
