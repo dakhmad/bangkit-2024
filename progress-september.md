@@ -8,17 +8,20 @@ Weekly consultation at 16.30 - 17.30<br>
 
 18 09<br>
 ILT Sessions A Growth Mindset SS 1 at 15.30 - 17.30<br>
-
+00.30 - 04.30 ~ 4 hours<br>
+07.00 - 11.30 ~ <br>
+12.30 - 15.00 ~ <br>
+15.30 - 17.30 ILT Sessions <br>
 
 17 09<br>
 Joining co hort room in 11.00 - 12.00 AM nope<br>
+03.30 - 04.00 ~ 0.5 hours<br>
 09.30 - 11.30 ~ 2 hours<br>
-12.30 - 14.30 ~ 2 hours<br>
-30 minute<br>
-15.30 - 17.30 ~ 2 hours<br>
+12.30 - 15.00 ~ 2.5 hours<br>
+17.00 - 17.30 ~ 0.5 hours<br>
 18.30 - 19.00 ~ 0.5 hours<br>
-19.30 - 21.00 ~ 1.5 hours<br>
-Total = 
+19.30 - 20.30 ~ 1 hours<br>
+Total = 7 hours<br>
 
 16 09<br>
 I will learn JavaScript, nope i am still in flexbox and make website<br><br>
