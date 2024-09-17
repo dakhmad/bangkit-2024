@@ -8,7 +8,8 @@ Weekly consultation at 16.30 - 17.30<br>
 
 18 09<br>
 ILT Sessions A Growth Mindset SS 1 at 15.30 - 17.30<br>
-00.30 - 04.30 ~ 4 hours<br>
+01.30 - 04.30 ~ 3 hours<br>
+I am cleared Dasar Pemrograman Web Alhamdulillah<br>
 07.00 - 11.30 ~ <br>
 12.30 - 15.00 ~ <br>
 15.30 - 17.30 ILT Sessions <br>
