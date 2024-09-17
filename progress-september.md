@@ -11,9 +11,14 @@ ILT Sessions A Growth Mindset SS 1 at 15.30 - 17.30<br>
 
 
 17 09<br>
-Joining co hort room in 11.00 - 12.00 AM<br>
-
-
+Joining co hort room in 11.00 - 12.00 AM nope<br>
+09.30 - 11.30 ~ 2 hours<br>
+12.30 - 14.30 ~ 2 hours<br>
+30 minute<br>
+15.30 - 17.30 ~ 2 hours<br>
+18.30 - 19.00 ~ 0.5 hours<br>
+19.30 - 21.00 ~ 1.5 hours<br>
+Total = 
 
 16 09<br>
 I will learn JavaScript, nope i am still in flexbox and make website<br><br>
@@ -21,7 +26,7 @@ I will learn JavaScript, nope i am still in flexbox and make website<br><br>
 03.00 - 04.00 ~ 1 hours<br>
 07.30 - 11.30 ~ 4 hours<br>
 12.30 - 15.00 ~ 3.5 hours<br>
-total = 9.5 hours<br>
+total = 8 hours<br>
 
 15 09 (this day is Makan too much)<br>
 I will make submission Website nope, i am still learning CSS<br>
