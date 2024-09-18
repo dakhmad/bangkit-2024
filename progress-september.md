@@ -10,9 +10,11 @@ Weekly consultation at 16.30 - 17.30<br>
 ILT Sessions A Growth Mindset SS 1 at 15.30 - 17.30<br>
 01.30 - 04.30 ~ 3 hours<br>
 I am cleared Dasar Pemrograman Web Alhamdulillah<br>
-07.00 - 11.30 ~ <br>
+10.00 - 11.30 ~ <br> 1.5 hours<br>
 12.30 - 15.00 ~ <br>
 15.30 - 17.30 ILT Sessions <br>
+
+detail: Membuat website dengan konsep semantic, elemen lainnya, dan flexbox.<br>
 
 17 09<br>
 Joining co hort room in 11.00 - 12.00 AM nope<br>
