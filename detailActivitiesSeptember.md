@@ -22,5 +22,10 @@ Start :
 ### JavaScript Dasar
 Start :
 
+19 09<br>
+Learn Function and Modularisasi<br>
+Mempelejari cara membuat function, arrow function, dan pemanggilan function.<br>
+Mempelajari cara memisahkan bagian-bagian kode pada beda file dan melakukan import serta export.<br>
+
 ### Cloud Computing Foundation
 Start :
