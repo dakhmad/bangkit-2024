@@ -34,8 +34,9 @@ Learning JS Function until modularitas<br>
 d = <br>
 10.30 - 11.30 ~ 1 hours<br>
 12.30 - 14.30 ~ 2 hours<br>
-Weekly consultation at 16.30 - 17.30<br>
+Weekly consultation at 16.30 - 17.30 ~ 1 hours<br>
 19.30 - 20.30 ~ 1 hours<br>
+3 hours<br>
 
 18 09<br>
 ILT Sessions A Growth Mindset SS 1 at 15.30 - 17.30<br>
