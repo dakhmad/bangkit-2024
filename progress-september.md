@@ -1,10 +1,41 @@
 # Progress Bulan September
+DEADLINE! <br>
+25 - 29 GCSB Cloud Foundation <br>
+24 Dasar Pemrograman Website (done) <br>
+29 ILT SS <br>
+25 ILT CC <br>
+23 - x ENGLISH SCHEDUL! <br>
+
+
+25 09<br>
+LAST DICODING IN SEPTEMBER! <br>
+ILT CC Navigating GCSB 18.30 - 20.30<br>
+
 24 09<br>
+JS penutup, submission<br>
+
 GCSB information will inform<br>
 
-19 09<br>
-Weekly consultation at 16.30 - 17.30<br>
+23 09<br>
+JS code quality, penutup, submission<br>
 
+22 09<br>
+JS Assync bonus code quality<br>
+
+21 09<br>
+JS Functional programming bonus Assyncronus<br>
+Make loogbook<br>
+
+20 09<br>
+JS OOP bonus functional programming<br>
+
+19 09<br>
+Learning JS Function until modularitas<br>
+d = <br>
+10.30 - 11.30 ~ 1 hours<br>
+12.30 - 14.30 ~ 2 hours<br>
+Weekly consultation at 16.30 - 17.30<br>
+19.30 - 20.30 ~ 1 hours<br>
 
 18 09<br>
 ILT Sessions A Growth Mindset SS 1 at 15.30 - 17.30<br>
