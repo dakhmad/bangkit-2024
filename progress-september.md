@@ -21,6 +21,10 @@ JS code quality, penutup, submission<br>
 
 22 09<br>
 JS Assync bonus code quality<br>
+06.00 - 08.00 ~ 2 hours<br>
+08.30 - 11.30 ~ 3 hours<br>
+12.30 - 15.00 ~ 2.5 hours<br>
+15.30 - 17.30 ~ 2 hours<br>
 
 21 09<br>
 JS Functional programming bonus Assyncronus<br>
@@ -29,10 +33,8 @@ Make loogbook<br>
 07.00 - 07.30 ~ 0.5 hours<br>
 10.00 - 11.30 ~ 1.5 hours<br>
 12.30 - 15.00 ~ 2.5 hours<br>
-15.30 - 17.30 ~ 2 hours<br>
-18.30 - 19.00 
-19.30 - 21.00
-
+20.00 - 21.00 ~ 1 hours<br>
+total 6 hours<br>
 
 20 09<br>
 JS OOP bonus functional programming <br>
