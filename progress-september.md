@@ -26,8 +26,9 @@ JS Assync bonus code quality<br>
 JS Functional programming bonus Assyncronus<br>
 Make loogbook<br>
 02.30 - 04.00 ~ 1.5 hours<br>
-07.00 - 11.30
-12.30 - 15.00
+07.00 - 07.30 ~ 0.5 hours<br>
+10.00 - 11.30 ~ 1.5 hours
+12.30 - 15.00 ~ 2.5 hours
 15.30 - 17.30
 18.30 - 19.00
 19.30 - 21.00
