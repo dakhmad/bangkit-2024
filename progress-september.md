@@ -23,7 +23,7 @@ JS code quality, penutup, submission<br>
 JS Assync bonus code quality<br>
 06.00 - 08.30 ~ 2 hours<br>
 09.30 - 11.30 ~ 2 hours<br>
-12.30 - 15.00 ~ 2.5 hours<br>
+13.00 - 14.30 ~ 1.5 hours<br>
 15.30 - 17.30 ~ 2 hours<br>
 
 21 09<br>
