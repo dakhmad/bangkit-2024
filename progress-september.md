@@ -6,18 +6,45 @@ DEADLINE! <br>
 25 ILT CC <br>
 23 - x ENGLISH SCHEDUL! <br>
 
+29 09<br>
+MUST DONE GCSB!<br>
+GCSB 6 bonus 7<br>
+
+28 09<br>
+MUST DONE GCSB!<br>
+GCSB 5 bonus 6<br>
+
+27 09<br>
+HURRY UP GCSB!<br>
+GCSB 4 bonus complete, 5<br>
+
+26 09<br>
+HURRY UP GCSB!<br>
+GCSB 3 bonus 4<br>
 
 25 09<br>
 LAST DICODING IN SEPTEMBER! <br>
+MUST START GCSB<br>
 ILT CC Navigating GCSB 18.30 - 20.30<br>
+GCSB 2 bonus 3<br>
 
 24 09<br>
 JS penutup, submission<br>
+GCSB Start<br>
+GCSB 1 bonus 2<br>
 
 GCSB information will inform<br>
 
 23 09<br>
 JS code quality, penutup, submission<br>
+Start GCSB i think?<br>
+GCSB 1<br>
+Make ILT Essai in 12.30<br>
+01.00 - 04.30 wB ~ 3.5 hours<br>
+07.00 - 11.30 wB ~ 4.5 hours<br>
+12.30 - 13.30 ~ 1 hours<br>
+break <br>
+14.00 - 15.00 ~ 1 hours<br>
 
 22 09<br>
 JS Assync bonus code quality<br>
