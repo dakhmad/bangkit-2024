@@ -40,7 +40,7 @@ JS code quality, penutup, submission<br>
 Start GCSB i think?<br>
 GCSB 1<br>
 Make ILT Essai in 12.30<br>
-01.00 - 04.30 wB ~ 3.5 hours<br>
+05.00 - 06.00 wB ~ 1 hours<br>
 07.00 - 11.30 wB ~ 4.5 hours<br>
 12.30 - 13.30 ~ 1 hours<br>
 break <br>
