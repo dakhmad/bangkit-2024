@@ -41,7 +41,8 @@ Start GCSB i think?<br>
 GCSB 1<br>
 Make ILT Essai in 12.30<br>
 05.00 - 06.00 wB ~ 0.5 hours<br>
-07.00 - 11.30 wB ~ 4.5 hours<br>
+08.00 - 08.30 ~ 0.5 hours<br>
+09.00 - 11.30 wB ~ 2.5 hours<br>
 12.30 - 13.30 ~ 1 hours<br>
 break <br>
 14.00 - 15.00 ~ 1 hours<br>
