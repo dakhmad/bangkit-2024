@@ -29,11 +29,16 @@ ILT CC Navigating GCSB 18.30 - 20.30<br>
 GCSB 2 bonus 3<br>
 
 24 09<br>
-JS penutup, submission<br>
 GCSB Start<br>
 GCSB 1 bonus 2<br>
-
 GCSB information will inform<br>
+ILT ESSAI DANII!<br>
+03.30 - 04.30 ~ 1 hours<br>
+05.00 - 06.00 prepare to kampus<br>
+09.00 - 11.30 ~ 2.5 hours<br>
+12.30 - 15.00 ~ 2.5 hours<br>
+15.30 - 17.30 ~ 2 hours<br>
+18.30 - 19.00 & 19.30 - 20.30 ~ 1.5 hours<br>
 
 23 09<br>
 Alhamdulillah JS Basic is done<br>
