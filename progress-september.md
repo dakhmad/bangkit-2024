@@ -18,15 +18,32 @@ GCSB 5 bonus 6<br>
 HURRY UP GCSB!<br>
 GCSB 4 bonus complete, 5<br>
 
-26 09<br>
-HURRY UP GCSB!<br>
-GCSB 3 bonus 4<br>
 
-25 09<br>
+
+26 09 Kamis<br>
+HURRY UP GCSB!<br>
+Guest Speaker Session 1 15.30 - 17.00 ~ 1.5 hours<br>
+Weekly Consultation 2 16.30 - 17.30 ~ 1 hours<br>
+GCSB 3 bonus 4<br>
+Wake up 01.00 <br>
+01.30 - 04.30 ~ 3 hours<br>
+05.00 - 07.30 prepare 2 hours<br>
+08.00 - 11.00 ~ 3 hours<br>
+Sleep hehe 12.30 - 13.00 ~ 0.5 hours<br>
+13.30 - 14.30 ~ 1 hours<br>
+SW 20.00 - 00.00 ~ 4 hours<br>
+
+25 09 Rabu<br>
 LAST DICODING IN SEPTEMBER! <br>
 MUST START GCSB<br>
-ILT CC Navigating GCSB 18.30 - 20.30<br>
 GCSB 2 bonus 3<br>
+05.30 - 06.00 ~ 0.5 hours<br>
+07.00 - 08.00 ke kampus <br>
+08.00 - 11.30 ~ 3.5 hours <br>
+12.30 - 14.30 ~ 2 hours <br>
+15.30 - 17.30 ~ 2 hours <br>
+ILT CC Navigating GCSB 18.30 - 20.30 ~ 1.5 hours<br>
+SW 21.00 - 01.00 ~ 4 hours<br>
 
 24 09<br>
 GCSB Start<br>
