@@ -38,6 +38,7 @@ ILT ESSAI DANII! done<br>
 09.00 - 11.30 ~ 2.5 hours<br>
 12.30 - 15.00 ~ 2.5 hours<br>
 13.40 start GCSB<br>
+GCSB 14.30 36% 1 course rest<br>
 15.30 - 17.30 ~ 2 hours<br>
 18.30 - 19.00 & 19.30 - 20.30 ~ 1.5 hours<br>
 
