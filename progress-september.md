@@ -39,8 +39,8 @@ MUST START GCSB<br>
 GCSB 2 bonus 3<br>
 05.30 - 06.00 ~ 0.5 hours<br>
 07.00 - 08.00 ke kampus <br>
-08.00 - 11.30 ~ 3.5 hours <br>
-12.30 - 14.30 ~ 2 hours <br>
+08.30 - 11.30 ~ 3 hours <br>
+12.30 - 15.00 ~ 2.5 hours <br>
 15.30 - 17.30 ~ 2 hours <br>
 ILT CC Navigating GCSB 18.30 - 20.30 ~ 1.5 hours<br>
 SW 21.00 - 01.00 ~ 4 hours<br>
