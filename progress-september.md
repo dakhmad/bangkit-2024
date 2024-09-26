@@ -25,7 +25,7 @@ GCSB 4 bonus complete, 5<br>
 HURRY UP GCSB!<br>
 GCSB 2 bonus 3<br>
 05.00 - 07.30 prepare 2 hours<br>
-08.00 - 11.30 ~ 3.5 hours<br>
+10.00 - 11.30 ~ 1.5 hours<br>
 12.30 - 14.30 ~ 2 hours<br>
 Guest Speaker Session 1 15.30 - 17.00 ~ 1.5 hours<br>
 Weekly Consultation 2 18.30 - 19.30 ~ 1 hours<br>
