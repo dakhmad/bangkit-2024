@@ -14,11 +14,20 @@ GCSB 6 bonus 7<br>
 28 09<br>
 MUST DONE GCSB!<br>
 GCSB 5 bonus 6<br>
+00.00 - 04.30 <br>
+
 
 27 09<br>
 HURRY UP GCSB!<br>
 GCSB 4 bonus complete, 5<br>
+I did'nt learn huhu<br>
+factor: <br>
+Hujan, malas, komik, lazy, defeat<br>
+DANIIIIIII!<br>
+2 hours<br>
+18.30 - 19.00 19.30 - 21.00 ~ 2 hours<br>
 
+4 hours<br>
 
 
 26 09 Kamis<br>
