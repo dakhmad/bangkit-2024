@@ -7,19 +7,35 @@ DEADLINE! <br>
 25 ILT CC <br>
 23 - x ENGLISH SCHEDUL! <br>
 
+30 09<br>
+GCSB 5 until 80%<br>
+Capstone Breafing 13.00 - 15.00<br>
+ILT SS 2 Praread read<br>
+Logbook <br>
+DPP meeting <br>
+
+Bangkit 2, 6 hours <br>
+01.00 - 04.30 Learn<br>
+05.00 - 07.00<br>
+08.00 - 10.30<br>
+13.00 - 15.00 Capstone Breafing<br>
+15.30 - 17.30 <br>
+18.30 - 19.00 && 19.30 - 21.00 <br>
+
 29 09<br>
 MUST DONE GCSB!<br>
-GCSB 6 bonus 7<br>
+GCSB 3 and 4 done<br>
 03.00 - 04.30 1.5 hours<br>
 05.00 - 08.00 3 hours<br>
 09.30 - 11.30 2 hours<br>
-12.30 - 15.00 2.5 hours<br>
-15.30 - 17.30 2 hours<br>
-
+12.30 - 14.30 2 hours<br>
+15.30 - 16.30 1 hours<br>
+20.00 - 21.00 1 hours<br>
+Total = 10.5 hours<br>
 
 28 09<br>
 MUST DONE GCSB!<br>
-GCSB 5 bonus 6<br>
+GCSB 3<br>
 12.30 - 13.30 1 hours<br>
 15.30 - 17.30 2 hours<br>
 18.30 - 19.00 19.30 - 21.00 2 hours<br>
@@ -28,7 +44,7 @@ SW 21.30 - 00.30 3 hours <br>
 
 27 09<br>
 HURRY UP GCSB!<br>
-GCSB 4 bonus complete, 5<br>
+GCSB 2 bonus 3<br>
 I did'nt learn huhu<br>
 factor: <br>
 Hujan, malas, komik, lazy, defeat<br>
