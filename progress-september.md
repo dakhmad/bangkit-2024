@@ -11,7 +11,8 @@ DEADLINE! <br>
 MUST DONE GCSB!<br>
 GCSB 6 bonus 7<br>
 03.00 - 04.30 1.5 hours<br>
-07.00 - 11.30 4.5 hours<br>
+05.00 - 08.00 3 hours<br>
+09.30 - 11.30 2 hours<br>
 12.30 - 15.00 2.5 hours<br>
 15.30 - 17.30 2 hours<br>
 
