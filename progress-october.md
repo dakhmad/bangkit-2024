@@ -119,19 +119,16 @@
     <td>01 10</td>
     <td>
       09.30 - 11.30 <br>
-      12.30 - 13.00 <br>
-      13.00 - 15.00 <br>
+      13.00 - 14.30 <br>
       15.30 - 17.30 <br>
-      18.30 - 19.00 <br>
-      19.30 - 21.00 <br>
+      18.30 - 20.30 <br>
     </td>
-    <td>2 hours</td>
+    <td>2.5 hours</td>
     <td>
-      ILT SS 2 13.00 - 15.00 <br>
+      ILT SS 2 18.30 - 20.30 <br>
     </td>
     <td>
-      Still lazy <br>
-      Must spirit DANII!
+      Alhamdulillah<br>
     </td>
   </tr>
   <tr>
