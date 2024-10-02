@@ -47,6 +47,79 @@
 
 <br>
 
+### Rekap belajar harian
+<table>
+  <tr>
+    <th>No</th>
+    <th>Date</th>
+    <th>Time</th>
+    <th>Hours</th>
+    <th>Activity</th>
+    <th>Notes + reason</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>01 10</td>
+    <td>
+      09.30 - 11.30 2<br>
+      13.00 - 14.30 1.5<br>
+      15.30 - 17.30 2<br>
+      18.30 - 20.30 2<br>
+    </td>
+    <td>7.5 hours</td>
+    <td>
+      ILT SS 2 18.30 - 20.30 <br>
+    </td>
+    <td>
+      Alhamdulillah<br>
+    </td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>02 10</td>
+    <td>
+      04.00 - 04.30 0.5<br>
+      05.00 - 07.00 2<br>
+      09.30 - 11.30 2<br>
+      13.00 - 15.00 2 YT<br>
+      16.30 - 17.30 1<br>
+      18.30 - 19.00 0.5<br>
+      19.30 - 21.00 0.5<br>
+    </td>
+    <td>7.5 hours</td>
+    <td>
+      YT Capstone Breafing 13.00 - 15.00 <br>
+    </td>
+    <td>
+      Still lazy <br>
+      Must spirit DANII!
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>03 10</td>
+    <td>
+      02.00 - 04.30 <br>
+      07.00 - 11.30 <br>
+      12.30 - 13.00 <br>
+      13.00 - 15.00 <br>
+      15.30 - 17.30 <br>
+      18.30 - 19.00 <br>
+      19.30 - 21.00 <br>
+    </td>
+    <td> hours</td>
+    <td>
+      ILT SS 2 13.00 - 15.00 <br>
+    </td>
+    <td>
+      Still lazy <br>
+      Must spirit DANII!
+    </td>
+  </tr>
+</table>
+
+<br>
+
 ### Recap Hours
 <table>
   <tr>
@@ -100,78 +173,4 @@
     <td>Video 30 seconds</td>
     <td>Aman, docYes, progress 20%</td>
   </tr>
-</table>
-
-<br>
-
-### Rekap belajar harian
-<table>
-  <tr>
-    <th>No</th>
-    <th>Date</th>
-    <th>Time</th>
-    <th>Hours</th>
-    <th>Activity</th>
-    <th>Notes + reason</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>01 10</td>
-    <td>
-      09.30 - 11.30 2<br>
-      13.00 - 14.30 1.5<br>
-      15.30 - 17.30 2<br>
-      18.30 - 20.30 2<br>
-    </td>
-    <td>7.5 hours</td>
-    <td>
-      ILT SS 2 18.30 - 20.30 <br>
-    </td>
-    <td>
-      Alhamdulillah<br>
-    </td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>02 10</td>
-    <td>
-      04.00 - 04.30 0.5<br>
-      05.00 - 07.00 2<br>
-      09.30 - 11.30 2<br>
-      13.00 - 15.00 2 YT<br>
-      15.30 - 17.30 2<br>
-      18.30 - 19.00 0.5<br>
-      19.30 - 21.00 0.5<br>
-    </td>
-    <td>4.5 hours</td>
-    <td>
-      YT Capstone Breafing 13.00 - 15.00 <br>
-    </td>
-    <td>
-      Still lazy <br>
-      Must spirit DANII!
-    </td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>03 10</td>
-    <td>
-      02.00 - 04.30 <br>
-      07.00 - 11.30 <br>
-      12.30 - 13.00 <br>
-      13.00 - 15.00 <br>
-      15.30 - 17.30 <br>
-      18.30 - 19.00 <br>
-      19.30 - 21.00 <br>
-    </td>
-    <td> hours</td>
-    <td>
-      ILT SS 2 13.00 - 15.00 <br>
-    </td>
-    <td>
-      Still lazy <br>
-      Must spirit DANII!
-    </td>
-  </tr>
-  
 </table>
