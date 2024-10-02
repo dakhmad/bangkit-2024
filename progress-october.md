@@ -11,13 +11,13 @@
     <td>1</td>
     <td>GCSB 5-8</td>
     <td>03/10/2024 at 11:59 PM</td>
-    <td></td>
+    <td>late</td>
   </tr>
   <tr>
     <td>2</td>
     <td>GCSB</td>
     <td>11/10/2024 at 11:59 PM</td>
-    <td></td>
+    <td>late</td>
   </tr>
   <tr>
     <td>3</td>
@@ -29,19 +29,19 @@
     <td>4</td>
     <td>GCSB</td>
     <td>15/10/2024 at 11:59 PM</td>
-    <td></td>
+    <td>late</td>
   </tr>
   <tr>
     <td>5</td>
     <td>GCSB</td>
     <td>21/10/2024 at 11:59 PM</td>
-    <td></td>
+    <td>late</td>
   </tr>
   <tr>
     <td>6</td>
     <td>GCSB</td>
     <td>27/10/2024 at 11:59 PM</td>
-    <td></td>
+    <td>late</td>
   </tr>
 </table>
 
