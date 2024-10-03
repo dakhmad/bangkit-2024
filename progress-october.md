@@ -71,11 +71,18 @@ Tagihan air<br>
 GCSB 8 done and Cloud Engineer path enroll GCSB 9<br>
 Bangkit Radio<br>
 Tagihan air<br>
-
+01.00 - 04.30
 
 04 10 Jumat<br>
 Must GCSB 7 done and 8 60%<br>
-
+Push GCSB<br>
+03.30 - 04.00 0.5<br>
+06.00 - 11.30 5.5<br>
+12.30 - 14.30 2.0<br>
+15.30 - 17.30 2.0<br>
+18.30 - 19.00 0.5<br>
+19.30 - 20.30 1.0<br>
+Total 
 
 03 10 Kamis<br>
 Must GCSB 7 60%<br>
@@ -83,10 +90,9 @@ Weekly Consultation<br>
 Mix Learning<br>
 Take a rest<br>
 05.30 - 07.00 1.5<br>
-08.00 - 11.30 3.5<br>
-13.00 - 14.00 1.0 Mix Learning CC GCSB<br>
+09.30 - 11.30 2.0<br>
+13.00 - 15.00 2.0 Mix Learning CC GCSB<br>
 16.30 - 17.30 2.0 Weekly Consultation<br>
-18.30 - 19.00 0.5<br>
 19.30 - 20.30 1.0<br>
 Total 9.5 hours<br>
 
