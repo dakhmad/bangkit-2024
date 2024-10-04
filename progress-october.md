@@ -61,17 +61,26 @@ Tagihan Air<br>
 07 10 Senin<br>
 START KULIAH<br>
 GCSB 9 24hours!!!! <br>
+dicoding 1 hour Back End Pemula<br>
 Tagihan Air<br>
 
 06 10 Minggu<br>
 GCSB 9 24hours!!!! <br>
+Dicoding 1 hour Back End Pemula<br>
 Tagihan air<br>
 
 05 10 Sabtu<br>
 GCSB 8 done and Cloud Engineer path enroll GCSB 9<br>
+Dicoding 1 hour Back End Pemula 19%<br>
 Bangkit Radio<br>
 Tagihan air<br>
-01.00 - 04.30
+02.00 - 04.30 2.5<br>
+05.00 - 06.00 1.0<br>
+07.00 - 11.30 <br>
+15.30 - 17.30 Tagihan Air 2.0<br>
+18.30 - 19.00
+19.30 - 20.00
+SW 20.00 - 01.00
 
 04 10 Jumat<br>
 Must GCSB 7 done and 8 60%<br>
