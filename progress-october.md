@@ -76,11 +76,16 @@ Bangkit Radio<br>
 Tagihan air<br>
 02.00 - 04.30 2.5<br>
 05.00 - 06.00 1.0<br>
-07.00 - 11.30 <br>
+07.00 - 08.00 1.0<br>
+10.00 - 11.30 1.5<br>
+12.00 - 12.30 0.5 take a rest<br>
+12.30 - 14.30 2.0<br>
 15.30 - 17.30 Tagihan Air 2.0<br>
-18.30 - 19.00
+18.30 - 19.00 0.5<br>
+19.00 - 21.00 Bangkit Radio<br>
 19.30 - 20.00
 SW 20.00 - 01.00
+Total Learn 4.5<br>
 
 04 10 Jumat<br>
 Must GCSB 7 done and 8 60%<br>
