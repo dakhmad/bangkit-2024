@@ -70,8 +70,8 @@ Dicoding 1 hour Back End Pemula<br>
 Tagihan air<br>
 02.00 - 04.30 2.5<br>
 05.00 - 06.00 1.0<br>
-07.00 - 11.30 4.5<br>
-12.30 - 14.30 0.5<br>
+17.00 - 17.30 0.5<br>
+18.30 - 19.00 & 19.30 - 20.00 1.0 <br>
 
 05 10 Sabtu<br>
 GCSB 8 done and Cloud Engineer path enroll GCSB 9<br>
