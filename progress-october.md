@@ -48,8 +48,19 @@
 <br>
 
 ## Rekap belajar harian detail
+11 10 Jumat<br>
+
+10 10 Kamis<br>
+KULIAH<br>
+
+
 09 10 Rabu<br>
 KULIAH<br>
+ILT CC 2 09.00 - 11.00 2.0 <br>
+01.30 - 04.30 3.0<br>
+06.00 - 07.00 1.0<br>
+08.30 At library<br>
+09.30
 
 
 08 10 Selasa<br>
@@ -67,7 +78,7 @@ Tagihan Air<br>
 10.00 - 11.30 1.5<br>
 12.30 - 14.00 1.5<br>
 ! 14.00 - 15.00 1.0<br>
-15.30 - 16.30 1<br>
+15.30 - 16.30 1.0<br>
 Total 6.5 <br>
 
 06 10 Minggu<br>
