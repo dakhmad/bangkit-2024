@@ -65,9 +65,10 @@ dicoding 1 hour Back End Pemula<br>
 Tagihan Air<br>
 07.00 - 09.30 2.5<br>
 10.00 - 11.30 1.5<br>
-12.30 - 13.30 1.0<br>
-! 13.30 - 14.30 1.0<br>
-15.00 - 17.30 2.5<br>
+12.30 - 14.00 1.5<br>
+! 14.00 - 15.00 1.0<br>
+15.30 - 16.30 1<br>
+Total 6.5 <br>
 
 06 10 Minggu<br>
 GCSB 9 24hours!!!! <br>
