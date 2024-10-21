@@ -1,39 +1,38 @@
 const http = require('http');
 
-const requestListener = (request, response) => {
+const requestLintener = (request, response) => {
+    response.setHeader('Constent-Type', 'text/html');
+    response.statusCode = 200;
 
-    // flow HTTP method
     const { method } = request;
 
     if(method === 'GET') {
-        response.setHeader('Constent-Type', 'text/html')
-
-        response.statusCode = 200;
-        // response.end('<h1>Halo HTTP Server!</h1>');
-        // console.log('ini get ya')
-        response.end('<h1>Method GET ya</h1>');
-    } else if(method === 'POST') {
-        response.setHeader('Constent-Type', 'text/html')
-
-        response.statusCode = 200;
-        // response.end('<h1>Halo HTTP Server!</h1>');
-        
-        response.end('<h1>Method POST ya</h1>');
-    } else if(method === 'PUT') {
-        response.setHeader('Constent-Type', 'text/html')
-
-        response.statusCode = 200;
-        // response.end('<h1>Halo HTTP Server!</h1>');
-
-        response.end('<h1>Method PUT ya</h1>');
+        response.end(`<h1>Hello Method ${method}</h1>`);
     }
-}
+    
 
-const server = http.createServer(requestListener);
+    // Memasukkan inputan POST ke body dan di concat
+    if(method === 'POST') {
+        let body = [];
+
+        request.on('data', (chunk) => {
+            body.push(chunk)
+        });
+
+        request.on('end', () => {
+            body = Buffer.concat(body).toString();
+            const { name } = JSON.parse(body);
+            response.end(`<h1>Hello, ${name}!</h1>`);
+            response.end(`<h1>Isi body: ${body}!</h1>`);
+        })
+    }
+};
+
+const server = http.createServer(requestLintener);
 
 const port = 5000;
 const host = 'localhost';
 
 server.listen(port, host, () => {
-    console.log(`Server berjalan pada http://${host}:${port}`);
+    console.log(`Server berjalan pada httpL//${host}:${port}`);
 })
